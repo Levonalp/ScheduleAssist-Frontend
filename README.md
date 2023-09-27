@@ -17,4 +17,4 @@ ScheduleAssist is a user-friendly application designed to streamline the process
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone [Repository URL]
+   git clone [Repository URL](https://github.com/Levonalp/ScheduleAssist-Frontend/tree/main)https://github.com/Levonalp/ScheduleAssist-Frontend/tree/main]
